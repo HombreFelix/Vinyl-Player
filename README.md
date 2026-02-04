@@ -15,7 +15,7 @@ Este reproductor es arcaico, sin una linda interfaz, pero incluye las funciones 
 Algo importante que quiero aclarar es que primero tenés que elegir la carpeta donde está tu música desde el botón “Add folder”. 
 A partir de ahí, el reproductor carga automáticamente las canciones que están en esa carpeta.
 
-Por último, dejé algunas canciones en formato .mp3 dentro de la carpeta “Musica” para que puedan probar el codigo.
+Dejé algunas canciones en formato .mp3 dentro de la carpeta “Musica” para que puedan probar como funciona "Vinyl Player".
 
 
 ⚠️ ACLARACIÓN MUY IMPORTANTE ⚠️ 
